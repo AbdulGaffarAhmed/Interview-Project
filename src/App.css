@@ -1,0 +1,9 @@
+.Add{
+  display: flex;
+  flex-direction:column;
+}
+button{
+  height: 40px;
+  width: 40px;
+  font-size: 35px;
+}
